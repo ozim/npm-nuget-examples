@@ -1,22 +1,30 @@
 # Komendy
 
-### npm utwórz nową paczkę
- - npm init
-
+### npm utwórz nową bibliotekę
+```
+npm init
+```
 ### instalowanie
- - npm i --ignore-scripts
- - npm ci --ignore-scripts
- - npm uninstall 
- - npm pack <PACKAGE_NAME>: pobieranie paczki tgz
- - npm run postinstall
-
+```
+npm i --ignore-scripts
+npm ci --ignore-scripts
+npm uninstall 
+npm pack <PACKAGE_NAME>: pobieranie paczki tgz
+npm run postinstall
+```
 ### publikowanie
  - npm publish
 
 # NuGet
-
-
-
+### dotnet/nuget nowa biblioteka
+```
+dotnet new classlib
+```
+```
+dotnet build --configuration Release    
+dotnet pack --configuration Release
+dotnet nuget push MorseNuget.1.0.3.nupkg --source https://api.nuget.org/v3/index.json --api-key <KEY-HERE>
+```
 # Bibliografia
 
 ## Generyczne supply chain
@@ -49,6 +57,7 @@ https://medium.com/azlamps/moq-scandal-or-why-caring-about-licenses-is-a-good-id
 https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html
 https://aaronstannard.com/microsoft-delete-nuget-packages/
 https://trailheadtechnology.com/securing-the-nuget-supply-chain-a-case-study/
+https://gunaui.com/ - Gսոa.UI3.Wіnfօrms
 
 ### package deletion
 https://github.com/NuGet/Home/discussions/14429 - 

@@ -58,6 +58,7 @@ https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html
 https://aaronstannard.com/microsoft-delete-nuget-packages/
 https://trailheadtechnology.com/securing-the-nuget-supply-chain-a-case-study/
 https://gunaui.com/ - Gսոa.UI3.Wіnfօrms
+https://learn.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio
 
 ### package deletion
 https://github.com/NuGet/Home/discussions/14429 - 

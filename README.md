@@ -76,3 +76,11 @@ https://devblogs.microsoft.com/dotnet/requiring-two-factor-authentication-on-nug
 https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/  
 https://rubygems.org/stats  
 https://rubygems.org/
+
+# Linki do bibliotek
+https://www.npmjs.com/package/radio-morse-training  
+https://www.npmjs.com/package/radio-morse-training-upgraded
+https://www.npmjs.com/package/use-node-packages-latest  
+https://www.npmjs.com/package/radio-morse-training-depend
+https://www.nuget.org/packages/MorseNuget/
+

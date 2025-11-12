@@ -82,5 +82,8 @@ https://www.npmjs.com/package/radio-morse-training
 https://www.npmjs.com/package/radio-morse-training-upgraded
 https://www.npmjs.com/package/use-node-packages-latest  
 https://www.npmjs.com/package/radio-morse-training-depend
-https://www.nuget.org/packages/MorseNuget/
+https://www.nuget.org/packages/MorseNuget/  
+
+# Prezentacja
+https://ozimek.dev/prezentacja-npm/npm-nuget.pdf
 
